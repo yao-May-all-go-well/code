@@ -20,5 +20,5 @@ Feature
 ![image](https://github.com/user-attachments/assets/5ea69af3-9031-4d20-8006-8586ee69f4d4)
 
 ## Citation
-The material provided in this repository is made available for reference and educational purposes. When utilizing or referencing this material, please give appropriate credit by mentioning the original creator and the research article
+The material provided in this repository is made available for reference and educational purposes. When utilizing or referencing this material, please give appropriate credit by mentioning the original creator and the research article:
 
