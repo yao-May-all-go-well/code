@@ -19,3 +19,6 @@ This is the algorithm flowchart.
 Feature
 ![image](https://github.com/user-attachments/assets/5ea69af3-9031-4d20-8006-8586ee69f4d4)
 
+## Citation
+If you use this framework for your research, please cite our paper:
+
