@@ -6,8 +6,6 @@
 - **`models`**: Contains the model definitions and related code used in the experiments.  
 - **`train.py`** and **`main.py`**: Handle the training logic and overall workflow management, respectively.
 
-## data
-The data comes from two publicly available datasets: [https://github.com/yaseen21khan/](https://github.com/yaseen21khan/) and [https://physionet.org/content/challenge-2016/1.0.0/](https://physionet.org/content/challenge-2016/1.0.0/).
 
 ## Dependencies and Requirements
 The code depends on Python standard libraries `os`, `random`, `time`, and external libraries `numpy`, `librosa`, `scipy`, `torch`, and `matplotlib`.
