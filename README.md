@@ -1,8 +1,8 @@
 # code
 ## Implementation of the Algorithm
 - **`single_file_process.ipynb`**: Demonstrates the preprocessing steps for a single file, providing an intuitive example of the signal processing workflow.  
-- **`data_process.py`**: Implements batch preprocessing and feature extraction for signals.  
-- **`extract_bispectrum.py`**: Focuses on extracting features from signals.  
+- **`data_process.py`**: Implements batch preprocessing and feature extraction of signals, which is the first step of the experimental process.  
+- **`extract_bispectrum.py`**: Focuses on feature extraction from signals, with this method being called in data_process.py for feature extraction.
 - **`models`**: Contains the model definitions and related code used in the experiments.  
 - **`train.py`** and **`main.py`**: Handle the training logic and overall workflow management, respectively.
 
