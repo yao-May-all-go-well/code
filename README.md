@@ -19,4 +19,5 @@ Feature
 
 ## Citation
 The material provided in this repository is made available for reference and educational purposes. When utilizing or referencing this material, please give appropriate credit by mentioning the original creator and the research article:
+Paper:Cui, M., Zhao, Z., & Yin, T. Enhanced Heart Sound Classification Using Bispectral Features and Attention-Guided ResCANet. The Visual Computer.
 
