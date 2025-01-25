@@ -1,4 +1,9 @@
 # code
+## Citation
+The material provided in this repository is made available for reference and educational purposes. When utilizing or referencing this material, please give appropriate credit by mentioning the original creator and the research article:
+Paper:Cui, M., Zhao, Z., & Yin, T. Enhanced Heart Sound Classification Using Bispectral Features and Attention-Guided ResCANet. The Visual Computer.
+
+
 ## Implementation of the Algorithm
 - **`single_file_process.ipynb`**: Demonstrates the preprocessing steps for a single file, providing an intuitive example of the signal processing workflow.  
 - **`data_process.py`**: Implements batch preprocessing and feature extraction of signals, which is the first step of the experimental process.  
@@ -21,7 +26,5 @@ This is the algorithm flowchart.
 Feature
 ![image](https://github.com/user-attachments/assets/5ea69af3-9031-4d20-8006-8586ee69f4d4)
 
-## Citation
-The material provided in this repository is made available for reference and educational purposes. When utilizing or referencing this material, please give appropriate credit by mentioning the original creator and the research article:
-Paper:Cui, M., Zhao, Z., & Yin, T. Enhanced Heart Sound Classification Using Bispectral Features and Attention-Guided ResCANet. The Visual Computer.
+
 
