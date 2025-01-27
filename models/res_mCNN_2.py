@@ -130,9 +130,7 @@ class FusionNet(nn.Module):
 
         self.b2 = nn.Sequential(*resnet_block(64, 64, 1, first_block=True, attention_type='SE', dropout_prob=0))
         self.b3 = nn.Sequential(*resnet_block(64, 128, 2, attention_type='ECA', dropout_prob=0))
-        self.b4 = nn.Sequential(*resnet_block(128, 256, 2, attention_type=None, dropout_prob=0))  # 使用 SKConv 注意力机制
-        self.b5 = nn.Sequential(*resnet_block(256, 512, 2, attention_type=None, dropout_prob=0))
-
+        
         self.conv6 = nn.Sequential(
             nn.Conv2d(512, 27, kernel_size=3, padding=1, stride=2),
             nn.BatchNorm2d(27),
