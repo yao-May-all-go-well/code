@@ -6,10 +6,12 @@ Paper:Cui, M., Zhao, Z., & Yin, T. Enhanced Heart Sound Classification Using Bis
 
 ## Implementation of the Algorithm
 - **`single_file_process.ipynb`**: Demonstrates the preprocessing steps for a single file, providing an intuitive example of the signal processing workflow.  
-- **`data_process.py`**: Implements batch preprocessing and feature extraction of signals, which is the first step of the experimental process.  
+- **`data_process.py`**: Implements batch preprocessing and feature extraction of signals, which is the first step of the experimental process.This is the preprocessing for a five classification dataset.
+- **`data_process_two.py`** This is the preprocessing for a binary classification dataset.
 - **`extract_bispectrum.py`**: Focuses on feature extraction from signals, with this method being called in data_process.py for feature extraction.
 - **`models`**: Contains the model definitions and related code used in the experiments.  
 - **`train.py`** and **`main.py`**: Handle the training logic and overall workflow management, respectively.
+- **`train_two.py`**: This is the training for a binary classification dataset.
 
 ## data
 The data comes from two publicly available datasets, namely:
@@ -27,7 +29,7 @@ Step 1: Preprocessing of the PCG Signal
 The preprocessing steps included noise filtering, resampling, and normalization.
 Running the script will preprocess the audio and extract features. A screenshot of the feature extraction process is shown below.
 ![image](https://github.com/user-attachments/assets/5ea69af3-9031-4d20-8006-8586ee69f4d4)
-Step 2：
+Step 2：Run the train.py file to execute the training code.
 
 
 
