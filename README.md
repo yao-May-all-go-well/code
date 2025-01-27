@@ -23,6 +23,10 @@ The code depends on Python standard libraries `os`, `random`, `time`, and extern
 This is the algorithm flowchart.
 ![image](https://github.com/user-attachments/assets/01509cc2-3a56-4443-9dd2-6b7d7616f6d6)
 
+step1：Preprocessing of the PCG Signal
+The preprocessing steps included noise filtering, resampling, and normalization.
+![image](https://github.com/user-attachments/assets/f098454a-2572-4363-9c0b-a1ede2b20650)
+
 Feature
 ![image](https://github.com/user-attachments/assets/5ea69af3-9031-4d20-8006-8586ee69f4d4)
 
